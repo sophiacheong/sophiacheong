@@ -1,14 +1,14 @@
-### Hello 👋, I'm Sophia Cheong
+## Hello 👋, I'm Sophia Cheong ##
 
-#### About me 
+### About me ###
 📫 : sophiaacheong@gmail.com <br />
 🔭 : Currently looking for new opportunities. 
 
-#### Tech Skills
+### Tech Skills ###
 <details>
 <summary>Front-End</summary>
-  * Javascript (ES5/ES6)
-  * ReactJS
+ <p> Javascript (ES5/ES6) </p>
+ <p> * ReactJS </p>
   * React Hooks
   * CSS3
   * HTML 5
