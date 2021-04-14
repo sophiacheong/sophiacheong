@@ -1,5 +1,6 @@
 ## Hello 👋, I'm Sophia Cheong ##
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-Expert-blue?style=plastic" /></p>
+
 ### About me ###
 Hack Reactor ~~student~~ alumni. Full-stack developer with passion for building applications, and learning new languages. 
 
