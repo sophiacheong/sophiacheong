@@ -8,7 +8,7 @@ Hack Reactor ~~student~~ alumni. Full-stack developer with passion for building 
 * ⚡ : *Fun fact* → I use to be **Director of Operations** at **Gen Korean BBQ**. 
 
 ### Languages and Tools ###
-__``` Front-End ```__ <br />
+__``` Front-End ```__ →
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript (ES5/ES6) || <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> ReactJS || <img height="20" src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png"> React Hooks || <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML 5 || <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS3
 <details>
 <summary>Front-End</summary>
