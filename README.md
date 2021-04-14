@@ -28,9 +28,8 @@ Hack Reactor ~~student~~ alumni. Full-stack developer with passion for building 
 </details>
 
 ## Connection ##
-<img height="25" src="https://img.shields.io/badge/Email-sophiaacheong@gmail.com-blue?endpoint&style=social&logo=minutemailer" />
-![picture alt](https://img.shields.io/badge/Email-sophiaacheong@gmail.com-blue?endpoint&style=social&logo=minutemailer)
-<!--
+<img height="25" src="https://img.shields.io/badge/Email-sophiaacheong@gmail.com-blue?endpoint&style=social&logo=minutemailer" /> <br/>
+<img height="25" src="https://img.shields.io/badge/Follow-377-blue?endpoint&style=social&logo=twitter&link=https://twitter.com/cheongsophia&link=https://twitter.com/cheongsophia />
 **sophiacheong/sophiacheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
