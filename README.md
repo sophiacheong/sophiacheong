@@ -1,7 +1,7 @@
 ### Hello 👋, I'm Sophia Cheong
 
 #### About me 
-📫 : sophiaacheong@gmail.com
+📫 : sophiaacheong@gmail.com <br />
 🔭 : Currently looking for new opportunities. 
 
 #### Tech Skills
