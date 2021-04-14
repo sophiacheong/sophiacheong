@@ -1,5 +1,5 @@
 ## Hello 👋, I'm Sophia Cheong ##
-<p align="center"><img src="https://img.shields.io/badge/Resume-Email me!-blue?style=plastic" /> <img src="https://img.shields.io/badge/Languages-Expert-red?style=plastic" /> <img src="https://img.shields.io/badge/Tools-Expert-Yellow?style=plastic" /> </p>
+<p align="center"><img src="https://img.shields.io/badge/Resume-Email me!-blue?style=plastic" /> <img src="https://img.shields.io/badge/Languages-Expert-red?style=plastic" /> <img src="https://img.shields.io/badge/Tools-Expert-yellow?style=plastic" /> </p>
 
 ### About me ###
 Hack Reactor ~~student~~ alumni. Full-stack developer with passion for building applications, and learning new languages. 
