@@ -28,7 +28,7 @@ Hack Reactor ~~student~~ alumni. Full-stack developer with passion for building 
 </details>
 
 ## Connection ##
-<img height="20" src="https://img.shields.io/badge/Email-sophiaacheong@gmail.com-blue?endpoint&style=social&logo=minutemailer">
+<img height="25" src="https://img.shields.io/badge/Email-sophiaacheong@gmail.com-blue?endpoint&style=social&logo=minutemailer" />
 ![picture alt](https://img.shields.io/badge/Email-sophiaacheong@gmail.com-blue?endpoint&style=social&logo=minutemailer)
 <!--
 **sophiacheong/sophiacheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
