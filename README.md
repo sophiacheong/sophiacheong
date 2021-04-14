@@ -1,6 +1,27 @@
-### Hi there 👋
+### Hello 👋, I'm Sophia Cheong
 
 #### About me 
+📫 : sophiaacheong@gmail.com
+🔭 : Currently looking for new opportunities. 
+
+#### Tech Skills
+<details>
+<summary>Front-End</summary>
+  * Javascript (ES5/ES6)
+  * ReactJS
+  * React Hooks
+  * CSS3
+  * HTML 5
+</details>
+<details>
+<summary>Back-End</summary>
+  * NodeJS
+  * Express
+  * PostgreSQL
+  * MongoDB
+  * MySQL
+  * RESTful API
+</details>
 <!--
 **sophiacheong/sophiacheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
