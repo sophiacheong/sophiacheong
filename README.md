@@ -23,8 +23,7 @@ __``` Tools, Testing, Development: ```__ &nbsp;
  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> Bootstrap
 
 ### Connection ###
-<img height="22" src="https://img.shields.io/badge/Email-sophiaacheong@gmail.com-blue?endpoint&style=social&logo=minutemailer" > <img height="22" src="https://img.shields.io/badge/Follow-377-blue?endpoint&style=social&logo=twitter&link=https://twitter.com/cheongsophia&link=https://twitter.com/cheongsophia" > 
-<img height="22" src="https://img.shields.io/badge/LinkedIn-sophiacheong-blue?endpoint&style=social&logo=linkedin&link=https://www.linkedin.com/in/sophia-cheong/&link=https://www.linkedin.com/in/sophia-cheong/" >
+<img height="22" src="https://img.shields.io/badge/Email-sophiaacheong@gmail.com-blue?endpoint&style=social&logo=minutemailer" > &nbsp; <img height="22" src="https://img.shields.io/badge/Follow-377-blue?endpoint&style=social&logo=twitter&link=https://twitter.com/cheongsophia&link=https://twitter.com/cheongsophia" > &nbsp; <img height="22" src="https://img.shields.io/badge/LinkedIn-sophiacheong-blue?endpoint&style=social&logo=linkedin&link=https://www.linkedin.com/in/sophia-cheong/&link=https://www.linkedin.com/in/sophia-cheong/" >
 <!-------
 **sophiacheong/sophiacheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
