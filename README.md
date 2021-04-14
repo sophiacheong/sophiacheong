@@ -1,8 +1,11 @@
 ## Hello 👋, I'm Sophia Cheong ##
 
 ### About me ###
-📫 : sophiaacheong@gmail.com <br />
-🔭 : Currently looking for new opportunities. 
+Hack Reactor ~~student~~ alumni. Full-stack developer with passion for building applications, and learning new languages. 
+
+* 🔭: Currently looking for new opportunities. 
+* 💬 : Mostly active with **Node.JS** community.
+* ⚡ : *Fun fact* → I use to be **Director of Operations** at **Gen Korean BBQ**. 
 
 ### Languages and Tools ###
 <details>
@@ -23,6 +26,9 @@
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> Bootstrap
  </p>
 </details>
+
+## Connection ##
+https://img.shields.io/badge/?style=social&logo=appveyor
 <!--
 **sophiacheong/sophiacheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
